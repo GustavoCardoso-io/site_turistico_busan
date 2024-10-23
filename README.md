@@ -1,11 +1,10 @@
 <h1>Busan</h1>
 
-<p>Um site de guia turistico para Busan!</p>
+<p>Um site de guia turístico para Busan!</p>
 
 <h2> Sobre </h2>
 
-<p>Este projeto é um laboratório para a experimentação de novas tecnologias e conceitos do desenvolvimento fullstack. Através dele, busquei aplicar na prática os conhecimentos adquiridos, construindo uma aplicação real e funcional.
-Sendo feito em forma de desafio! Para poder testar as habilidades adquiridas até o momento! 
+<p>Construção de uma aplicação real para demonstrar as habilidades técnicas e a capacidade de resolução de problemas. Através deste desafio, foi possível desenvolver uma solução completa e funcional, alinhada com as melhores práticas.
 </p>
 
 <h1> Tecnologias Utilizadas</h1>
